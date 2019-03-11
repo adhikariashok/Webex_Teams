@@ -20,10 +20,11 @@ Dependencies
 
 How to run
 ``` 
-0. Login to Webex team using (id = 'hexr96@gmail.com', password='510112Hb!)')
+0. Login to Webex team using 
 1. Download and extract the project files in a directory, say ../project/
 2. In project/, run command prompt (by shift-right clicking on the background of explorer)
 3. Type python main.py and press enter
 4. If you did everything right, an OK message will print in the terminal
 5. The tasks will be executed as scheduled
 ```
+
